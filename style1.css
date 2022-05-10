@@ -1,0 +1,12 @@
+.container{
+    background-color:rgb(3, 173, 3);
+  
+  }
+
+.col-size {
+    margin: auto;
+    width: auto;
+    padding: 8px;
+    background: yellow ;
+    padding-left: 100px;
+}
